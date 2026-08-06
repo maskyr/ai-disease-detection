@@ -28,5 +28,5 @@ The model achieved about 82.4% test accuracy.
 
 This project is for educational use only and is not a medical diagnostic tool.
 
-##Author
+## Author
 Masha Kyryliva
